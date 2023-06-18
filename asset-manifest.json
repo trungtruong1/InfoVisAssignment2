@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/InfoVisAssignment2/static/css/main.ae8feb58.css",
+    "main.js": "/InfoVisAssignment2/static/js/main.48fd6227.js",
+    "static/js/787.16b3c0de.chunk.js": "/InfoVisAssignment2/static/js/787.16b3c0de.chunk.js",
+    "static/media/who_suicide_statistics.csv": "/InfoVisAssignment2/static/media/who_suicide_statistics.e6b452d2a4ff4c0e5240.csv",
+    "static/media/world.geojson": "/InfoVisAssignment2/static/media/world.f29f5e0dec12ecd0cae1.geojson",
+    "index.html": "/InfoVisAssignment2/index.html",
+    "main.ae8feb58.css.map": "/InfoVisAssignment2/static/css/main.ae8feb58.css.map",
+    "main.48fd6227.js.map": "/InfoVisAssignment2/static/js/main.48fd6227.js.map",
+    "787.16b3c0de.chunk.js.map": "/InfoVisAssignment2/static/js/787.16b3c0de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae8feb58.css",
+    "static/js/main.48fd6227.js"
+  ]
+}
